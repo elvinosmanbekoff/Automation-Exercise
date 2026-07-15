@@ -62,6 +62,8 @@ An error should be displayed when the entered data in the fields does not meet t
 ### Attachments
 
 - Screenshot
+- <img width="761" height="361" alt="image" src="https://github.com/user-attachments/assets/fcc2c941-f7c4-4546-b867-f6ae2b9b18fc" />
+
 
 ### Reproducibility
 100% — reproduced 5/5 times.
