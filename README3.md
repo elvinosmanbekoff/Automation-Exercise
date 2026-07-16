@@ -55,6 +55,7 @@ An error should be displayed when invalid data (Name - ASD, Email - [Asd@gmail.c
 ### Attachments
 
 - Screenshot
+- <img width="1914" height="856" alt="Image" src="https://github.com/user-attachments/assets/67eb9e15-d76c-434d-ab1d-d143ef183ff6" />
 
 ### Reproducibility
 100% — reproduced 5/5 times.
