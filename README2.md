@@ -54,6 +54,7 @@ An error should be displayed when data that does not meet the required standard 
 ### Attachments
 
 - Screenshot
+- <img width="835" height="352" alt="Image" src="https://github.com/user-attachments/assets/f15eaf34-fce3-49c7-8fc3-403820dfe7ae" />
 
 ### Reproducibility
 100% — reproduced 5/5 times.
